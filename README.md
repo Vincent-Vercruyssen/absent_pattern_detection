@@ -23,6 +23,9 @@ The repository contains the **python** code for the following algorithms:
 3. iForest for time series
 4. kNNo for time series
 5. LOF for time series
+6. AverageMissing
+7. SSDO
+8. SSAD
 
 ## Installation and usage:
 
