@@ -24,4 +24,8 @@ The repository contains the **python** code for the following algorithms:
 4. kNNo for time series
 5. LOF for time series
 
+## Installation and usage:
+
+To use the repository, simply download everything. The **data/** folder contains the power usage data. The **missing_patterns/** folder contains the algorithms that were used in the paper. Most of them follow the fit-predict format as popularized by scikit-learn. In order to use them, most algorithms require three inputs (besides setting the hyperparameters): the time series values, the accompanying time stamps, and a vector of 0/1 indicating for each time stamp whether user annotated a pattern or not.
+
 
