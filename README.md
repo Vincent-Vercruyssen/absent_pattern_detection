@@ -12,7 +12,7 @@ Author: Vincent Vercruyssen, 2019.
 
 The repository contains easy-to-use versions of the algorithms from the paper.
 
-In addition, the repository contains the constructed power usage datasets from the paper, and the scripts to construct them.
+In addition, the repository contains the constructed power usage datasets from the paper, and the script detailing how to construct such datasets. Running the script requires some action on the users' part (i.e., filling in the correct paths, downloading the UCI and UCR data, transforming the UCR datafiles to csv files...). The UCI and UCR data are not included in this repository in order to minimize its size and because they are freely available elsewhere.
 
 ## Repository:
 
