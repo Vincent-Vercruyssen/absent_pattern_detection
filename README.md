@@ -12,7 +12,7 @@ Author: Vincent Vercruyssen, 2019.
 
 The repository contains easy-to-use versions of the algorithms from the paper.
 
-In addition, the repository contains the constructed power usage datasets from the paper, and the scripts to construct them.
+In addition, the repository contains the constructed power usage datasets from the paper.
 
 ## Repository:
 
